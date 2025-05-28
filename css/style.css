@@ -125,3 +125,22 @@ nav a.active {
     padding: 0.5rem;
   }
 }
+
+/* clases de titulo */
+.title{
+    color: #f3f4f6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%; 
+
+}
+
+/* aplica la fuente de google foont desde  la clase siguiente   */
+.francois-one-regular {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
